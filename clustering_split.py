@@ -1,4 +1,4 @@
-#this is python 3.6!
+#!/usr/bin/python3
 """
 The MIT License
 
